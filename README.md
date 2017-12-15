@@ -1,6 +1,6 @@
 # CodeIgniter Rest Server
 ### Rest Server With API CodeIgniter
-######sumber : https://belajarphp.net/membuat-rest-api-codeigniter/
+####sumber : https://belajarphp.net/membuat-rest-api-codeigniter/
 
 
 [![Gitter chat](https://badges.gitter.im/chriskacerguis/codeigniter-restserver.png)](https://gitter.im/codeigniter-restserver/Lobby)
